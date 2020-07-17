@@ -26,3 +26,7 @@ chocolate.
   Azure Service Bus, Azure Logic Apps, Azure Functions, AWS Lambda, AWS SNS,
   AWS SQS
 * DevOps: Azure DevOps, GitHub Actions, TeamCity, Jenkins
+
+## Employment History
+
+**COMING SOON!**

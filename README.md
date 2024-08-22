@@ -1,32 +1,110 @@
-# About Me
+![Cover Image](cover.jpg "Passion Led Us Here picture")
+<small>Photo by <a href="https://unsplash.com/@goian?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ian Schneider</a> on <a href="https://unsplash.com/photos/two-person-standing-on-gray-tile-paving-TamMbr4okv4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
+  
+## Welcome to My GitHub
 
-Welcome! My name is Michael Collins. I am a Technical Client Director at
-[Neudesic](https://www.neudesic.com) and am based in Tempe, Arizona. I have
-been a professional software developer since July 1994. I'm very passionnate
-about technology and learning. I love programming in different programming
-languages and learning how to use them and what they are capable for. I really
-enjoy building mobile applications for my iPhone and iPad.
+Welcome! My name is Michael Collins and this is my personal GitHub space. I am glad that you have decided to check me out. I use GitHub to host ideas that I am working on and projects that I hope might pan out to invest in. A lot of what I put here are learning projects and spikes as I explore different technologies, programming languages, or programming techniques to determine how best to use them in the commercial products that I write. I wish I had the time to dedicate to being a good open source citizen, but for many of my ideas once I develop them to a point where I include them in a product, I just haven't been able to make the commitment to keep them actively going. But I do share the source code here in case it is helpful to anyone looking for examples.
 
-I live in Surprise, Arizona, with my wife and three children. I do a lot of
-hobby programming outside of work. I love reading, especially non-fiction
-books or fantasy fiction. I love to cook and bake, especially anything with
-chocolate.
+## About Me
+
+I am a professional software developer and have been developing commercial software for over 30 years. I began working as a programmer the summer of 1994 before my sophomore year at [California State University, Sacramento](https://www.csus.edu) where I studied [Computer Engineering](https://www.csus.edu/college/engineering-computer-science/computer-engineering/). I am currently the Senior Director of Application Innovation at [Neudesic](https://www.neudesic.com). I have been with Neudesic for over 16 years now and I manage all of the custom application development services and consultants in the Desert market (Phoenix and Las Vegas, mostly).
+
+I love programming and software development. It is my passion and my creative escape. There's no better feeling than building something and seeing it being used by others. I am a _polyglot_ programmer, meaning that I actively use many different languages, sometimes on the same product. I believe in using the right tool for the job and I am fortunate to have learned about a lot of different tools that can do really amazing things.
+
+I have tried to contribute when I could to helping to build and grow the local community here in Phoenix over the years. I have been a frequent presenter at [Desert Code Camp](https://www.desertcodecamp.com/about), the [Phoenix Mobile User Group](https://www.meetup.com/phoenix-mobile-user-group/?msockid=109ae7ed6f356aab2966f3936ec06b5e), the [Northwest Valley .NET User Group](https://www.meetup.com/nwvdnug/?msockid=109ae7ed6f356aab2966f3936ec06b5e), the old Phoenix Connected Systems User Group, as well as others. I try to blog on occasion, although that's been more on-and-off as I intended, and I'm thinking of starting my own YouTube channel to share my technical knowledge and ideas with others.
+
+In my professional life, I am a software development consultant and I very much enjoy that role. I love coming in to companies and sharing my knowledge and insights with them. I enjoy building trust relationships with my customers and helping them to understand the technology options that they have to solving their business problems.
+
+I am a _full-stack_ software developer. I love mobile programming and web programming. I write mobile applications for both iOS and Android platforms. I love building APIs and microservices. I work with [Docker](https://www.docker.com) and [Kubernetes](https://kubernetes.io). I build large high-throughput asynchronous eventing systems using messaging systems like [RabbitMQ](https://www.rabbitmq.com) and [Apache Kafka](https://kafka.apache.org). I build a lot of cloud native solutions, mostly with [Microsoft Azure](https://azure.microsoft.com), but I also work with [Amazon Web Services](https://aws.amazon.com) and other cloud services. I specialize in serverless solutions and microservice architectures to help customers take advantage of the cost benefits and elasticity that the cloud brings to them.
+
+If you are of need of technological advice and insight for your business, I would love the opportunity to talk to you. Feel free to reach out via [email](mailto:michael.collins@neudesic.com) or [LinkedIn](https://www.linkedin.com/in/michaelfcollins3/) for a conversation. I'm happy to host a Teams call with you or meet you in person at your office or [the Neudesic office on Mill Avenue in Tempe](https://maps.app.goo.gl/5bePWEcxPzDP3Yrc8) if you're here in Arizona.
+
+If you're a skilled software engineer with a passion for building really cool solutions, being part of something bigger than yourself, and being part of a very dedicated professional team, I would also love to talk to you.
 
 ## Skills
 
-* Operating Systems: Microsoft Windows, Linux, macOS, iOS, iPadOS, watchOS,
-  tvOS, Android
-* Clouds: Microsoft Azure, Amazon Web Services, Heroku
-* Programming Languages: C#, C, C++, Objective C, Swift, Java, Kotlin, Dart,
-  JavaScript, TypeScript, Python, Ruby, Go, Elixir, Erlang, PowerShell, SQL,
-  Shell Scripting
-* Databases: Microsoft SQL Server, PostgreSQL, MySQL, Maria DB, SQLite, Redis,
-  ElasticSearch, Neo4j
-* Integration Technologies: Mulesoft, RabbitMQ, ZeroMQ, Apache ActiveMQ,
-  Azure Service Bus, Azure Logic Apps, Azure Functions, AWS Lambda, AWS SNS,
-  AWS SQS
-* DevOps: Azure DevOps, GitHub Actions, TeamCity, Jenkins
+### Programming Languages
 
-## Employment History
+- Assembly ★★★☆☆
+- BASIC ★★★★★
+- C ★★★★☆
+- C++ ★★★★☆
+- C# ★★★★★
+- COBOL ★★★☆☆
+- Dart ★★★★☆
+- Elixir ★★★☆☆
+- Erlang ★★★☆☆
+- Java ★★★★★
+- JavaScript ★★★★★
+- Go ★★★★★
+- Kotlin ★★★★☆
+- Objective-C ★★★★★
+- Pascal ★★★★★
+- Perl ★★★☆☆
+- PHP ★★★☆☆
+- PowerShell ★★★★☆
+- Python ★★★★☆
+- Ruby ★★★☆☆
+- Rust ★★★☆☆
+- SQL ★★★★★
+- Swift ★★★★★
+- TypeScript ★★★★★
+- Shell ★★★★☆
 
-**COMING SOON!**
+### Operating Systems
+
+- Android ★★★★☆
+- iOS ★★★★★
+- iPadOS ★★★★★
+- Linux ★★★★☆
+- macOS ★★★★★
+- OS/400 ★★☆☆☆
+- tvOS ★★★☆☆
+- Windows ★★★★★
+- UNIX ★★★★☆
+- visionOS ★★★☆☆
+- watchOS ★★★★☆
+
+### Web Technologies
+
+- Angular ★★★★☆
+- Ember ★★★★☆
+- HTML DOM ★★★★★
+- jQuery ★★★★☆
+- React ★★★★☆
+- Vite ★★★★☆
+- Vue.js ★★★★☆
+- Web Components ★★★★★
+- Webpack ★★★★☆
+
+## Professional Experience
+
+This is a summary of my professional experience. For detailed information on my past roles and experience, please refer to my [LinkedIn profile](https://www.linkedin.com/in/michaelfcollins3/).
+
+[__Neudesic, an IBM Company__](https://www.neudesic.com) (May 2008 - Present)\
+_Senior Director: Application Innovation_
+
+[__Sogeti USA__](https://www.us.sogeti.com/) (October 2005 - May 2008)\
+_Practice Director: Custom Application Development_
+
+[__JDA Software__](https://blueyonder.com) (April 2003 - September 2005)\
+_Senior Software Architect_
+
+[__Kaiser Foundation Health Plan__](https://www.kaiserpermanente.org) (February 2002 - April 2003)\
+_Technical Lead_
+
+__Independent Contractor__ (November 2001 - January 2002)
+
+__Thuridion__ (May 2001 - September 2001)
+
+[__NONSTOP Solutions__](https://www.manh.com) (October 1999 - May 2001)\
+_Software Architect_
+
+[__PeopleSoft__](https://www.oracle.com/applications/peoplesoft/) (January 1998 - October 1999)\
+_Development Manager_
+
+[__Quantal International__](https://www.linkedin.com/company/quantal-international/) (April 1997 - December 1997)\
+_Software Engineer_
+
+[__Health Care Information Services__](https://www.lww.com) (July 1994 - April 1997)\
+_Software Engineer_

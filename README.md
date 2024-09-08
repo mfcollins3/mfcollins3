@@ -24,7 +24,7 @@ If you're a skilled software engineer with a passion for building really cool so
 ## Skills
 
 
-### 
+### Programming Languages
 
 - __Assembly:__ ★★★☆☆
 - __BASIC:__ ★★★★★
@@ -52,7 +52,7 @@ If you're a skilled software engineer with a passion for building really cool so
 - __Swift:__ ★★★★★
 - __TypeScript:__ ★★★★★
 
-### 
+### Operating Systems
 
 - __Android:__ ★★★★☆
 - __Apple iOS:__ ★★★★★
@@ -65,7 +65,7 @@ If you're a skilled software engineer with a passion for building really cool so
 - __Microsoft Windows:__ ★★★★★
 - __OS/400:__ ★★☆☆☆
 
-### 
+### Web Technologies
 
 - __Angular:__ ★★★★☆
 - __Ember:__ ★★★★☆

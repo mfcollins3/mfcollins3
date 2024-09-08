@@ -1,0 +1,28 @@
+# Copyright Michael F. Collins, III
+
+name: Update README
+
+on:
+    schedule:
+        - cron: '0 0 * * *'
+    push:
+        branches:
+            - main
+
+jobs:
+    update_readme:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Generate README
+              run: mfcollins3/generate-github-readme@main
+
+            - name: Commit changes
+              run: |
+                git config --global user.email "mfcollins3@me.com"
+                git config --global user.name "Michael Collins"
+                git add README.md
+                git commit -m "ci: update README"
+                git push

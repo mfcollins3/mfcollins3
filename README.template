@@ -23,59 +23,7 @@ If you're a skilled software engineer with a passion for building really cool so
 
 ## Skills
 
-### Programming Languages
-
-- Assembly ★★★☆☆
-- BASIC ★★★★★
-- C ★★★★☆
-- C++ ★★★★☆
-- C# ★★★★★
-- COBOL ★★★☆☆
-- Dart ★★★★☆
-- Elixir ★★★☆☆
-- Erlang ★★★☆☆
-- Java ★★★★★
-- JavaScript ★★★★★
-- Go ★★★★★
-- Kotlin ★★★★☆
-- Objective-C ★★★★★
-- Pascal ★★★★★
-- Perl ★★★☆☆
-- PHP ★★★☆☆
-- PowerShell ★★★★☆
-- Python ★★★★☆
-- Ruby ★★★☆☆
-- Rust ★★★☆☆
-- SQL ★★★★★
-- Swift ★★★★★
-- TypeScript ★★★★★
-- Shell ★★★★☆
-
-### Operating Systems
-
-- Android ★★★★☆
-- iOS ★★★★★
-- iPadOS ★★★★★
-- Linux ★★★★☆
-- macOS ★★★★★
-- OS/400 ★★☆☆☆
-- tvOS ★★★☆☆
-- Windows ★★★★★
-- UNIX ★★★★☆
-- visionOS ★★★☆☆
-- watchOS ★★★★☆
-
-### Web Technologies
-
-- Angular ★★★★☆
-- Ember ★★★★☆
-- HTML DOM ★★★★★
-- jQuery ★★★★☆
-- React ★★★★☆
-- Vite ★★★★☆
-- Vue.js ★★★★☆
-- Web Components ★★★★★
-- Webpack ★★★★☆
+{{ template "skills" (ReadSkills "skills.json") }}
 
 ## Professional Experience
 

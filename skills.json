@@ -1,7 +1,7 @@
 {
     "categories": [
         {
-            "name": "Programming Languages",
+            "title": "Programming Languages",
             "skills": [
                 {
                     "name": "Assembly",
@@ -106,7 +106,7 @@
             ]
         },
         {
-            "name": "Operating Systems",
+            "title": "Operating Systems",
             "skills": [
                 {
                     "name": "Android",
@@ -151,7 +151,7 @@
             ]
         },
         {
-            "name": "Web Technologies",
+            "title": "Web Technologies",
             "skills": [
                 {
                     "name": "Angular",
